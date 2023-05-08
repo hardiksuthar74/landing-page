@@ -10,11 +10,14 @@ header {
 }
 
 header ul {
-  display: flex;
-  gap: 60px;
-  font-size: 20px;
+  font-size: 18px;
   list-style: none;
   /* padding-right: 40px; */
+}
+
+.nav-container {
+  display: flex;
+  gap: 2rem;
 }
 
 header a {
@@ -55,7 +58,7 @@ header h2 {
 }
 
 .hero img {
-  width: 450px;
+  width: 24rem;
   border-radius: 20px;
 }
 
@@ -148,7 +151,6 @@ header h2 {
   justify-content: center;
   align-items: center;
   gap: 60px;
-  height: 10rem;
   border-radius: 20px;
   background-color: #3882f6;
   flex-wrap: wrap;
