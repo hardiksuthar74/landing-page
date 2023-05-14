@@ -4,7 +4,7 @@ header {
   background-color: #1f2937;
   color: white;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding: 20px;
 }
@@ -28,7 +28,7 @@ header a {
 header h2 {
   font-size: 28px;
   color: #f9faf8;
-  margin: 0 40px;
+  margin-right: 40px;
 }
 
 /* hero */
