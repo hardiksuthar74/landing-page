@@ -57,8 +57,9 @@ header h2 {
   align-items: center;
 }
 
-.hero img {
-  width: 24rem;
+.image-piece {
+  max-width: 22rem;
+  height: auto;
   border-radius: 20px;
 }
 
